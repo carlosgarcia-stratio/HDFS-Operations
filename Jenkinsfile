@@ -1,3 +1,3 @@
-node(docker) {
-  echo "Javiellll"
+node('docker') {
+  sh "ls -a"
 }
