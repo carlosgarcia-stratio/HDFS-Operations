@@ -1,1 +1,3 @@
-echo "Javiellll"
+node(docker) {
+  echo "Javiellll"
+}
